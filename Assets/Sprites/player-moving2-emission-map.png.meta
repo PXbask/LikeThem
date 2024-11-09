@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: b70fe1b71113372409c276a3e884742f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6502642342446996503
+    second: player-moving2-emission-map_0
+  - first:
+      213: 2895555092778630160
+    second: player-moving2-emission-map_1
+  - first:
+      213: 2343353790635780460
+    second: player-moving2-emission-map_2
+  - first:
+      213: -8151374439522351773
+    second: player-moving2-emission-map_3
+  - first:
+      213: -3242380604237725545
+    second: player-moving2-emission-map_4
+  - first:
+      213: -6527869457666037088
+    second: player-moving2-emission-map_5
+  - first:
+      213: -4098223698525167119
+    second: player-moving2-emission-map_6
+  - first:
+      213: -6097937453904339279
+    second: player-moving2-emission-map_7
+  - first:
+      213: -3970152341931710957
+    second: player-moving2-emission-map_8
+  - first:
+      213: -4448644807357630794
+    second: player-moving2-emission-map_9
+  - first:
+      213: -4784902645097727134
+    second: player-moving2-emission-map_10
+  - first:
+      213: 171736234186559811
+    second: player-moving2-emission-map_11
+  - first:
+      213: 749111781615780887
+    second: player-moving2-emission-map_12
+  - first:
+      213: 7053830108424506569
+    second: player-moving2-emission-map_13
+  - first:
+      213: 9165896471158959917
+    second: player-moving2-emission-map_14
+  - first:
+      213: 1863793556994009492
+    second: player-moving2-emission-map_15
+  - first:
+      213: 2314701468893145689
+    second: player-moving2-emission-map_16
+  - first:
+      213: 7191201139808983018
+    second: player-moving2-emission-map_17
+  - first:
+      213: 2450404093159258636
+    second: player-moving2-emission-map_18
+  - first:
+      213: 8646224829527754569
+    second: player-moving2-emission-map_19
+  - first:
+      213: -7762177723841762517
+    second: player-moving2-emission-map_20
+  - first:
+      213: 1519336869646494423
+    second: player-moving2-emission-map_21
+  - first:
+      213: 1380413891923629985
+    second: player-moving2-emission-map_22
+  - first:
+      213: 4391710587625202259
+    second: player-moving2-emission-map_23
+  - first:
+      213: 4364566517182597350
+    second: player-moving2-emission-map_24
+  - first:
+      213: 5896697850127869313
+    second: player-moving2-emission-map_25
+  - first:
+      213: -6166267524822490244
+    second: player-moving2-emission-map_26
+  - first:
+      213: 7549832912245354648
+    second: player-moving2-emission-map_27
+  - first:
+      213: -2906394344948214457
+    second: player-moving2-emission-map_28
+  - first:
+      213: -2259841991761993859
+    second: player-moving2-emission-map_29
+  - first:
+      213: 8005563441228245699
+    second: player-moving2-emission-map_30
+  - first:
+      213: 7457767340874368979
+    second: player-moving2-emission-map_31
+  - first:
+      213: -7489108556926196123
+    second: player-moving2-emission-map_32
+  - first:
+      213: 143907105041695226
+    second: player-moving2-emission-map_33
+  - first:
+      213: 5620667918893317379
+    second: player-moving2-emission-map_34
+  - first:
+      213: -5940454675868169139
+    second: player-moving2-emission-map_35
+  - first:
+      213: -5385855798272216329
+    second: player-moving2-emission-map_0
+  - first:
+      213: 9066317971873941511
+    second: player-moving2-emission-map_1
+  - first:
+      213: -5919805450839858367
+    second: player-moving2-emission-map_2
+  - first:
+      213: -856355626797132566
+    second: player-moving2-emission-map_3
+  - first:
+      213: -5604142634541966538
+    second: player-moving2-emission-map_4
+  - first:
+      213: -3059921843836771381
+    second: player-moving2-emission-map_5
+  - first:
+      213: -5562248073402116514
+    second: player-moving2-emission-map_6
+  - first:
+      213: 1540095517904750417
+    second: player-moving2-emission-map_7
+  - first:
+      213: -6847673152301341550
+    second: player-moving2-emission-map_8
+  - first:
+      213: -4933680070332655023
+    second: player-moving2-emission-map_9
+  - first:
+      213: 978281868308506998
+    second: player-moving2-emission-map_10
+  - first:
+      213: 1469314980192657771
+    second: player-moving2-emission-map_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-moving2-emission-map_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b18cdfa89145b0800000000000000
+      internalID: -5385855798272216329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7084946f82802dd70800000000000000
+      internalID: 9066317971873941511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e4439e40a8dda0800000000000000
+      internalID: -5919805450839858367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49957381d9d14f0800000000000000
+      internalID: -856355626797132566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b118547f51a32b0800000000000000
+      internalID: -5604142634541966538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a6a19b49f885d0800000000000000
+      internalID: -3059921843836771381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e561448e8dceec2b0800000000000000
+      internalID: -5562248073402116514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15742e8b6b48f5510800000000000000
+      internalID: 1540095517904750417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294691b6c8d28f0a0800000000000000
+      internalID: -6847673152301341550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad564ad1c088bb0800000000000000
+      internalID: -4933680070332655023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ebb21d2e839d00800000000000000
+      internalID: 978281868308506998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-moving2-emission-map_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612b81903e046410800000000000000
+      internalID: 1469314980192657771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

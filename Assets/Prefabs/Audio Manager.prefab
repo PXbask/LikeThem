@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4265030264836089246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4265030264836089240}
+  - component: {fileID: 4265030264836089241}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4265030264836089240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4265030264836089246}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4265030264836089241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4265030264836089246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779b1e091340ba34091e47f3ccd2df08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Press
+    clip: {fileID: 8300000, guid: b5216c39f29141f44bb81b2319a3fcc2, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Select
+    clip: {fileID: 8300000, guid: f01fd6c06c1575a4a8bdf98068d902b5, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Coin
+    clip: {fileID: 8300000, guid: 99a802bf529cc064aa5db7d3ffbda834, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Door
+    clip: {fileID: 8300000, guid: 5e1d06f43fddf6c42b8188dd92e2e7f1, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Key
+    clip: {fileID: 8300000, guid: 8a40c51b6f5a7244b9074b73808f35bb, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Timer
+    clip: {fileID: 8300000, guid: edae8a199c1540e4ab11086d1d18915d, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Spikes
+    clip: {fileID: 8300000, guid: f0cba6372a3069949916e27ed87a675d, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Pause
+    clip: {fileID: 8300000, guid: 5feec34d02e08e24f83e43fafffb70d8, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Theme
+    clip: {fileID: 8300000, guid: ac8f5f1ea0347be4db94a542e64967bb, type: 3}
+    audioMixerGroup: {fileID: -952831464441566506, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 1
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 8300000, guid: af27795f4a6f94a4491e43f35667947d, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Gem
+    clip: {fileID: 8300000, guid: b41b1637a28574c4897cc00cadd39efc, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Back
+    clip: {fileID: 8300000, guid: 9b735df2335dde04d8efee4a92310e0b, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: SecretDoor
+    clip: {fileID: 8300000, guid: 36d3677fcccbfb745a06daece19458db, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Error
+    clip: {fileID: 8300000, guid: c3e257fb65a2bea42a3c53d9b09d7d30, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: LevelPassed
+    clip: {fileID: 8300000, guid: c057929aff7a37b418bb78ff5c34e4d2, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: DestroyGrid
+    clip: {fileID: 8300000, guid: 7ae0c382198cfd742915513d00980c75, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: MovementStop
+    clip: {fileID: 8300000, guid: ac3387bb90c1dd549953562480e95ec6, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: TinyGem
+    clip: {fileID: 8300000, guid: 5f99aa80d7bd173469ca32c305bccabd, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
+  - name: Dialog
+    clip: {fileID: 8300000, guid: 6b1817e368c522f43b61eaae09764408, type: 3}
+    audioMixerGroup: {fileID: 8157477362411669507, guid: f8d8392a39de64c4ab6e2570b6176c14,
+      type: 2}
+    loop: 0
+    source: {fileID: 0}
